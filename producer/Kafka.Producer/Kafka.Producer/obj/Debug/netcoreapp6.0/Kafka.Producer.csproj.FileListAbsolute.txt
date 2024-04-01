@@ -1,0 +1,5 @@
+C:\Users\38068\source\repos\kafka-dotnet\producer\Kafka.Producer\Kafka.Producer\obj\Debug\netcoreapp6.0\Kafka.Producer.csproj.AssemblyReference.cache
+C:\Users\38068\source\repos\kafka-dotnet\producer\Kafka.Producer\Kafka.Producer\obj\Debug\netcoreapp6.0\Kafka.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38068\source\repos\kafka-dotnet\producer\Kafka.Producer\Kafka.Producer\obj\Debug\netcoreapp6.0\Kafka.Producer.AssemblyInfoInputs.cache
+C:\Users\38068\source\repos\kafka-dotnet\producer\Kafka.Producer\Kafka.Producer\obj\Debug\netcoreapp6.0\Kafka.Producer.AssemblyInfo.cs
+C:\Users\38068\source\repos\kafka-dotnet\producer\Kafka.Producer\Kafka.Producer\obj\Debug\netcoreapp6.0\Kafka.Producer.csproj.CoreCompileInputs.cache
